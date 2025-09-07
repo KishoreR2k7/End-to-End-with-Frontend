@@ -16,7 +16,7 @@ This project provides an **end-to-end solution** for predicting life expectancy 
 ## 🌐 Live Application  
 
 
-👉)  ## https://huggingface.co/spaces/KishoreR123/End-to-End1
+ ## https://huggingface.co/spaces/KishoreR123/End-to-End1
 
 
 
