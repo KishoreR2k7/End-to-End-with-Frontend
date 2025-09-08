@@ -42,20 +42,21 @@ This project provides an **end-to-end solution** for predicting life expectancy 
 - **Pickle / Joblib** – Model serialization  
 
 ## 📂 Project Structure  
+
+```
 ├── data/ # Dataset
 ├── notebooks/ # Exploratory data analysis
 ├── model/ # Trained model + preprocessing pipeline
 ├── app/ # Gradio frontend (with login)
 ├── requirements.txt # Dependencies
 ├── README.md # Documentation
+```
 
-bash
-Copy code
 
 ## ⚙️ Installation & Usage  
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/life-expectancy-prediction.git
+   git clone https://github.com/KishoreR2k7/End-to-End-with-Frontend
    cd life-expectancy-prediction
 Install dependencies
 
